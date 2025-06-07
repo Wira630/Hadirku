@@ -1,10 +1,9 @@
-![Tampilan HomePage Hadirin]()
-![Tampilan Index Users]()
-![Tampilan Index Event]()
-![Tampilan Index Print ID ]()
-![Tampilan Index Rekap Harian]()
-![Tampilan Index Rekap Bulanan]()
-
+![Tampilan HomePage Hadirin](https://github.com/Wira630/Hadirku/public/doc/IndexHadirin.png)
+![Tampilan Index Users](https://github.com/Wira630/Hadirku/public/doc/IndexUsers.png)
+![Tampilan Index Event](https://github.com/Wira630/Hadirku/public/doc/IndexEvent.png)
+![Tampilan Index Print ID ](https://github.com/Wira630/Hadirku/public/doc/PrintID.png)
+![Tampilan Index Rekap Harian](https://github.com/Wira630/Hadirku/public/doc/RekapHarian.png)
+![Tampilan Index Rekap Bulanan](https://github.com/Wira630/Hadirku/public/doc/RekapBulanan.png)
 
 ## 🛠️ Tech Stack
 - Laravel 12
